@@ -1,0 +1,77 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+.icono{
+    font-size: 37px;
+    font-family: 'Lobster', cursive;
+
+}
+
+.items-nav{
+    font-size: 16px;
+    font-family: 'Cabin', sans-serif;
+    
+}
+
+.navbar{
+    background-color: #373A3C;
+}
+
+h1{
+    color: #373A3C;
+    font-weight: 700;
+    text-align: left;
+
+
+}
+
+.imagen-carr{
+    width: 233px;
+    height: 170;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    border-color: black;
+  }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-image: none;
+}
+
+  .carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color:black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color:black;
+}
+
+.receta{
+    font-weight: 400;
+    font-family: 'Cabin', sans-serif;
+    color:#373A3C;
+    font-size: 20px;
+}
+
+.newsletter{
+
+}

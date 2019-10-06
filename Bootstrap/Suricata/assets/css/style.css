@@ -1,0 +1,44 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+:root {
+    --background: #E83E8C;
+  }
+
+
+.achicar{
+    width: 132px;
+    height: 53px;
+
+}
+
+
+
+.color-fondo{
+    background-color: var(--background)
+}
+
+
+
+
+
+.blue{
+    background-color: #17A2B8;
+}
+.icons-section{
+    color: white;
+    background-color: #17A2B8;
+}
+
+.img-footer{
+    width: 53px;
+    height: 100px;
+}
+
+h1{
+    font-weight: 700;
+    color: #707070;
+}
+
+
+  
